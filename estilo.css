@@ -1,0 +1,30 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    text-align: center;
+    color: brown;
+}
+
+p.centro {
+    text-align: center;
+}
+
+p.derecha {
+    text-align: right;
+}
+
+p.cafe { 
+    color: brown;
+ }
+
+h2.cafe { 
+    color: brown;
+}
+
+ html {
+    background-image: url("img/madera.jpg");
+    background-size: 100px 1000px;
+  }
+
